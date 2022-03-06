@@ -21,6 +21,7 @@
 		C929E64227D3DD9200D5095F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C929E64527D3DD9200D5095F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C929E64C27D3E00300D5095F /* SleepCalculator.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = SleepCalculator.mlmodel; sourceTree = "<group>"; };
+		C964BE8727D532EF002CD720 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +38,7 @@
 		C929E63227D3DD9000D5095F = {
 			isa = PBXGroup;
 			children = (
+				C964BE8727D532EF002CD720 /* README.md */,
 				C929E63D27D3DD9000D5095F /* BetterRest */,
 				C929E63C27D3DD9000D5095F /* Products */,
 			);
